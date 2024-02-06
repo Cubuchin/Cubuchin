@@ -41,7 +41,6 @@ Dynamic psychology graduate with a passion for cybersecurity, specializing in ne
 
 ## Projects
 - <a href="https://github.com">Detection Lab</a>
-- Detection Lab
 - SOC Automation Project
 - Test Project
 - LAMP Server
