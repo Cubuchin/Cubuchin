@@ -3,7 +3,7 @@
 
 I am a Psychology graduate with an interest in technology and a dedication to solving complex problems.
 
-## Objective
+## Summary
 Dynamic psychology graduate with a passion for cybersecurity, specializing in network security, vulnerability assessment, and incident response. Proven ability to analyze data, troubleshoot effectively, and communicate complex technical concepts. Seeking to apply a strong psychology background to decipher cybercriminal behavior and fortify organizational defenses.
 
 ## Skills
