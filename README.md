@@ -10,9 +10,9 @@ Dynamic psychology graduate with a passion for cybersecurity, specializing in ne
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Cubuchin/Detection-Lab">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Cubuchin/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Cubuchin/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -40,7 +40,7 @@ Dynamic psychology graduate with a passion for cybersecurity, specializing in ne
 </div>
 
 ## Projects
-- <a href="https://github.com">Detection Lab</a>
+- <a href="https://github.com/Cubuchin/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
 - Test Project
 - LAMP Server
