@@ -42,6 +42,5 @@ Dynamic psychology graduate with a passion for cybersecurity, specializing in ne
 ## Projects
 - <a href="https://github.com/Cubuchin/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
-- Test Project
 - LAMP Server
 - <a href="https://github.com/Cubuchin/Cybersecurity-Vulnerability-Self-assessment-Tool">Cybersecurity Vulnerability Self-assessment Tool</a>
