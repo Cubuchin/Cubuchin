@@ -1,0 +1,1 @@
+Portfolio screenshots are synthetic or public-facing views selected to demonstrate project scope without exposing proprietary logic, real customer data, credentials, or private implementation details.
