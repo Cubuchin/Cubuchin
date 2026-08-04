@@ -11,6 +11,7 @@ The portfolio may describe:
 - High-level workflows and design principles
 - Tools and capabilities used in a general, non-sensitive way
 - Publicly available media, education, and research outputs
+- Public-facing product views and screenshots containing only synthetic staging data
 - Lessons learned that do not reveal protected information
 
 ## Information That Stays Private
@@ -28,11 +29,11 @@ The portfolio does not publish:
 
 ## InPhishion Disclosure Standard
 
-Public descriptions of InPhishion are limited to the venture's problem space, intended workflows, design principles, and my role in directing the work.
+Public descriptions of InPhishion are limited to the venture's problem space, internal-alpha status, implemented high-level workflows, sanitized visuals, design principles, and my role in directing the work.
 
 They should not be interpreted as claims that:
 
-- The platform or every described capability is complete
+- Every planned capability is complete, production-approved, or deployed for customers
 - The assessment model has been scientifically validated
 - A behavioral result is a diagnosis or fixed judgment about a person
 - The system can guarantee or definitively predict future behavior

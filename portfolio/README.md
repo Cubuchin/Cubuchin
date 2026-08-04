@@ -4,8 +4,8 @@ This directory contains public-safe case studies describing selected projects, r
 
 ## Case Studies
 
-- [InPhishion](inphishion.md): Behavioral security product and service design
-- [CyberPsych with Connor](cyberpsych-with-connor.md): Research, education, and end-to-end content production
+- [InPhishion](inphishion.md): Internal-alpha behavioral security platform and service design
+- [CyberPsych with Connor](cyberpsych-with-connor.md): Media project, searchable case library, and end-to-end content production
 - [Applied Security and Workflow Automation](applied-security-and-automation.md): Security operations, IT support, documentation, and process improvement
 
 ## What These Case Studies Show

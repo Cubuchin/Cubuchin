@@ -6,9 +6,15 @@
 
 ## Overview
 
-CyberPsych with Connor is a public education project that explains how psychology, digital behavior, and cybersecurity interact. The goal is to make security incidents and behavioral concepts understandable without relying on fear, hacker clichés, or unnecessary technical jargon.
+CyberPsych with Connor is a public education project and implemented searchable case library explaining how psychology, digital behavior, and cybersecurity interact. The goal is to make security incidents and behavioral concepts understandable without relying on fear, hacker clichés, or unnecessary technical jargon.
 
 Topics include social engineering, scams, privacy, persuasion, cognitive bias, attention, decision fatigue, trust cues, reporting behavior, AI-assisted deception, and practical ways people can interrupt risky decisions.
+
+![CyberPsych searchable case-library homepage](../assets/cyberpsych-home.png)
+
+*The searchable case-library homepage connects public education content with structured incident analysis.*
+
+**Audience as of August 2026:** 400+ cross-platform followers and subscribers, with average reach above 1,000 views per video.
 
 ## My Role
 
@@ -22,6 +28,14 @@ I created the project and manage the full content lifecycle:
 - Designing supporting visuals and thumbnails
 - Recording, editing, captioning, publishing, and reviewing performance
 - Using AI-assisted tools for research, outlining, and production while retaining human validation and final editorial control
+
+## Publishing Platform
+
+I designed and built a searchable cyberpsychology case library connecting security incidents with behavioral mechanisms, uncertainty analysis, and practical protective actions. Its structured editorial workflow includes case scaffolding, formatting and code-quality checks, automated tests, production builds, smoke testing, and container validation.
+
+![CyberPsych interactive-learning page](../assets/cyberpsych-interactive-learning.png)
+
+*Interactive-learning page showing the project beyond the landing page: evidence review, confidence calibration, and pressure-aware decision practice without accounts, leaderboards, or answer tracking.*
 
 ## Editorial Approach
 
