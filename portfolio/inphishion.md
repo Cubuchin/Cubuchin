@@ -6,9 +6,13 @@
 
 ## Overview
 
-InPhishion is an early-stage behavioral security venture focused on helping organizations better understand and improve how people verify unusual requests, recognize pressure and persuasion, report suspicious activity, and follow security processes during social engineering scenarios.
+InPhishion is an internal-alpha behavioral security platform focused on helping organizations better understand and improve how people verify unusual requests, recognize pressure and persuasion, report suspicious activity, and follow security processes during social engineering scenarios.
 
 The work combines cyberpsychology, security operations, structured assessment, analyst review, privacy-conscious reporting, and targeted improvement workflows.
+
+![InPhishion public homepage](../assets/inphishion-home.png)
+
+*Public-facing homepage for the internal-alpha product.*
 
 ## My Role
 
@@ -22,6 +26,18 @@ My responsibilities include:
 - Establishing privacy, access-control, auditability, human-approval, and secure-deployment requirements
 - Directing development while maintaining separation between product logic, public materials, and sensitive implementation details
 - Reviewing language to avoid diagnostic certainty, punitive ranking, or unsupported prediction claims
+
+## Implemented Product Scope
+
+The internal alpha includes implemented public-site, onboarding, assessment, review, simulation, reporting, administrative, and authenticated-portal workflows. This is implementation evidence, not a claim of production deployment, scientific validation, or measured customer outcomes.
+
+![InPhishion internal alpha console](../assets/inphishion-console-synthetic.png)
+
+*Internal alpha operational console shown with synthetic staging data. Proprietary assessment content, scoring logic, simulation materials, and customer information are not displayed.*
+
+## Public-Safe Technology Summary
+
+The product combines a full-stack web application, authenticated and administrative interfaces, structured data and reporting workflows, automated testing and quality checks, and cloud-deployment preparation. Architecture, configuration, data models, and behavioral logic remain private.
 
 ## Problem Space
 
@@ -92,4 +108,4 @@ This portfolio does not publish:
 
 ## Status
 
-InPhishion is an early-stage venture under active development. This case study describes the direction, design principles, and work I can discuss publicly. It should not be read as evidence that every planned capability is complete, scientifically validated, or deployed in production.
+**Status: Internal alpha.** The implemented workflows listed above are under active development. Production approval, initial cloud deployment, and controlled validation of the behavioral model remain in progress.

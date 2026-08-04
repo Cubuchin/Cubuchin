@@ -7,21 +7,33 @@
 
 I work at the intersection of **psychology, cybersecurity, and practical communication**. My focus is understanding why people make risky decisions under pressure, then designing clearer systems, training, and controls that help them respond more safely.
 
-I am the founder of **InPhishion**, an early-stage behavioral security venture, and the creator of **CyberPsych with Connor**, a public education project that translates cyberpsychology and security incidents into practical guidance.
+I am the founder of **InPhishion**, a behavioral-security product in internal alpha, and the creator of **CyberPsych with Connor**, a public education project and searchable case library that translates cyberpsychology and security incidents into practical guidance.
 
-This profile is a public-facing portfolio. It presents selected outcomes, design thinking, and professional capabilities without publishing proprietary source code, sensitive information, private data, or confidential implementation details.
+This public portfolio presents selected outcomes, design thinking, and implementation evidence. Proprietary methods, source code, private data, and sensitive implementation details remain private under the [Public Portfolio Policy](PUBLIC_PORTFOLIO_POLICY.md).
+
+## Projects at a Glance
+
+| Project | Status | Public evidence |
+|---|---|---|
+| **InPhishion** | Internal alpha | Implemented public site, onboarding, assessment, review, simulation, reporting, administrative, and authenticated-portal workflows |
+| **CyberPsych with Connor** | Active | Published channel, searchable case library, and structured editorial workflow |
+| **Applied Security & Automation** | Completed professional work | Sanitized case study covering security operations, user support, documentation, and workflow improvement |
 
 ## Featured Work
 
 ### [InPhishion](portfolio/inphishion.md)
 
-An early-stage behavioral security venture focused on social engineering resilience, verification behavior, reporting readiness, and explainable human-risk assessment.
+An internal-alpha behavioral security platform focused on social engineering resilience, verification behavior, reporting readiness, and explainable human-risk assessment.
+
+[![InPhishion public homepage](assets/inphishion-home.png)](portfolio/inphishion.md)
+
+*Public-facing InPhishion homepage. See the case study for implemented scope and a synthetic staging view.*
 
 **My role:** Founder, product lead, behavioral-security researcher, and workflow designer.
 
 **Publicly shareable work includes:**
-- Designing the service and product journey from discovery and onboarding through assessment, analyst review, aggregate reporting, and debrief
-- Defining privacy, role-based access, audit logging, human-approval, and secure-deployment requirements
+- Implementing the service and product journey across public-site, onboarding, assessment, analyst-review, simulation, reporting, administrative, and authenticated-portal workflows
+- Defining privacy, role-based access, audit logging, human-approval, testing, and secure-deployment requirements
 - Framing results as provisional hypotheses and directional evidence rather than diagnoses or guaranteed predictions
 - Developing non-punitive approaches centered on protective behavior, process clarity, and organizational improvement
 
@@ -29,14 +41,20 @@ An early-stage behavioral security venture focused on social engineering resilie
 
 ### [CyberPsych with Connor](portfolio/cyberpsych-with-connor.md)
 
-A cyberpsychology education project covering social engineering, scams, digital behavior, privacy, trust, attention, persuasion, cognitive bias, and safer decision-making.
+A cyberpsychology media project and searchable case library covering social engineering, scams, digital behavior, privacy, trust, attention, persuasion, cognitive bias, and safer decision-making.
+
+[![CyberPsych searchable case-library homepage](assets/cyberpsych-home.png)](portfolio/cyberpsych-with-connor.md)
+
+*CyberPsych case-library homepage. See the case study for the interactive-learning experience and publishing workflow.*
+
+**Audience as of August 2026:** 400+ cross-platform followers and subscribers, with average reach above 1,000 views per video.
 
 **What I own:**
 - Topic selection and research
 - Source verification and citation tracking
 - Scriptwriting and practical guidance
 - Visual design, recording, editing, captions, publishing, and performance review
-- AI-assisted workflows with human validation and final editorial control
+- A structured publishing workflow with automated quality checks and final human editorial control
 
 [Visit the CyberPsych with Connor channel](https://www.youtube.com/@cyberpsychwithconnor)
 
@@ -66,7 +84,6 @@ Examples include:
 - **M.S. Psychology**, Arizona State University
 - **B.A. Psychology**, University of Colorado Colorado Springs
 - **CompTIA Security+**
-- **EC-Council Certified Ethical Hacker (CEH)**
 
 ## Professional Focus
 
@@ -81,15 +98,7 @@ I am especially interested in work involving:
 
 ## Portfolio Boundaries
 
-This repository intentionally does **not** include:
-
-- Proprietary source code or private repositories
-- Assessment questions, scoring logic, simulation templates, or internal methods
-- Credentials, secrets, environment details, or deployment configuration
-- Client, employee, subscriber, or organizational data
-- Claims of scientific validation, guaranteed prediction, or production outcomes that have not been established
-
-More detail: [Public Portfolio Policy](PUBLIC_PORTFOLIO_POLICY.md)
+The evidence here is deliberately limited to public-facing work, synthetic staging data, and sanitized descriptions. Proprietary logic, sensitive data, private code, secrets, and unsupported validation or production claims are excluded; see the [Public Portfolio Policy](PUBLIC_PORTFOLIO_POLICY.md).
 
 ## Connect
 
