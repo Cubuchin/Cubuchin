@@ -4,15 +4,19 @@
 
 [Back to portfolio](README.md) · [Back to profile](../README.md)
 
+[Website](https://inphishion.com) · [About InPhishion](https://inphishion.com/about) · [How it works](https://inphishion.com/how-it-works) · [Pilot program](https://inphishion.com/pilot) · [Contact](https://inphishion.com/contact)
+
 ## Overview
 
-InPhishion is an internal-alpha behavioral security platform focused on helping organizations better understand and improve how people verify unusual requests, recognize pressure and persuasion, report suspicious activity, and follow security processes during social engineering scenarios.
+InPhishion is a behavioral security platform focused on helping organizations understand how people handle suspicious requests and what would make a safer response easier. It looks at verification, reporting, recovery, and the processes that support those decisions.
 
-The work combines cyberpsychology, security operations, structured assessment, analyst review, privacy-conscious reporting, and targeted improvement workflows.
+The approach connects two short assessments with analyst review, an authorized phishing exercise, group findings, and practical recommendations. Cyberpsychology helps frame questions about pressure, trust, confidence, and the demands of the workday. Findings remain provisional and tied to what was actually observed.
 
-![InPhishion public homepage](../assets/inphishion-home.png)
+**Current stage:** The public website and authenticated application are live. InPhishion is preparing controlled pilot engagements with select organizations; the behavioral model is still being tested.
 
-*Public-facing homepage for the internal-alpha product.*
+[![InPhishion public homepage](../assets/inphishion-home.png)](https://inphishion.com)
+
+*Earlier public homepage view. The [live website](https://inphishion.com) has current wording and pilot information.*
 
 ## My Role
 
@@ -20,24 +24,26 @@ I founded InPhishion and lead its behavioral-security concept, product direction
 
 My responsibilities include:
 
-- Defining the problem space and intended customer journey
+- Defining the problem space and the journey from pilot inquiry through findings and follow-up
 - Translating behavioral concepts into structured, explainable product requirements
-- Designing workflows for discovery, onboarding, assessment campaigns, analyst review, aggregate reporting, and debrief
+- Designing workflows for organization setup, assessment campaigns, analyst review, approved exercises, aggregate reporting, and debrief
 - Establishing privacy, access-control, auditability, human-approval, and secure-deployment requirements
 - Directing development while maintaining separation between product logic, public materials, and sensitive implementation details
 - Reviewing language to avoid diagnostic certainty, punitive ranking, or unsupported prediction claims
 
 ## Implemented Product Scope
 
-The internal alpha includes implemented public-site, onboarding, assessment, review, simulation, reporting, administrative, and authenticated-portal workflows. This is implementation evidence, not a claim of production deployment, scientific validation, or measured customer outcomes.
+The deployed website and application include public-site, onboarding, assessment, analyst-review, simulation-approval, reporting, administrative, and authenticated-portal workflows. Current work focuses on pilot readiness, usability, and careful verification of live workflows.
+
+Implementation and public availability do not mean every planned capability is ready for wider use. Exercise delivery remains subject to review, authorization, and an agreed scope. Public individual enrollment and paid checkout are not open, and no scientific validation or measured customer outcomes are claimed.
 
 ![InPhishion internal alpha console](../assets/inphishion-console-synthetic.png)
 
-*Internal alpha operational console shown with synthetic staging data. Proprietary assessment content, scoring logic, simulation materials, and customer information are not displayed.*
+*Earlier internal-alpha console shown with synthetic staging data, retained as design evidence. It is not a current customer or live operational view. Proprietary assessment content, scoring logic, simulation materials, and customer information are not displayed.*
 
 ## Public-Safe Technology Summary
 
-The product combines a full-stack web application, authenticated and administrative interfaces, structured data and reporting workflows, automated testing and quality checks, and cloud-deployment preparation. Architecture, configuration, data models, and behavioral logic remain private.
+The product combines a deployed full-stack web application, authenticated and administrative interfaces, structured data and reporting workflows, and automated testing and quality checks. Architecture, configuration, data models, and behavioral logic remain private.
 
 ## Problem Space
 
@@ -49,13 +55,13 @@ Traditional awareness programs can overfocus on whether someone clicked a link w
 - Did pressure, authority, urgency, or workload shape the decision?
 - Did the organization reinforce protective behavior after the event?
 
-InPhishion is being designed around the idea that useful human-risk analysis should examine behavior, context, process, and response together.
+InPhishion examines behavior, context, process, and response together so a finding can lead to a useful action.
 
 ## Publicly Shareable Product Approach
 
 ### 1. Structured assessment
 
-The assessment experience is intended to gather directional evidence about security-relevant habits and decision patterns. Findings are treated as provisional hypotheses for review, not diagnoses or fixed labels.
+Two short assessments gather directional evidence about security-relevant habits and decisions. Findings are treated as provisional hypotheses for review, not diagnoses or fixed labels.
 
 ### 2. Analyst-reviewed recommendations
 
@@ -63,15 +69,17 @@ Recommendations are designed to remain explainable and subject to human judgment
 
 ### 3. Safe, controlled simulations
 
-Simulation concepts are limited to approved, controlled contexts. The design avoids real-brand impersonation, clone domains, spoof-style identities, cloned login pages, and methods intended to optimize harmful phishing.
+Exercises require written authorization, defined limits, and review of the exact scenario before delivery. Each scenario centers on one believable situation and one primary action. No real credentials are collected. Public examples use fictional or organization-owned contexts; real-brand mimicry, clone domains, spoof-style identities, and cloned login pages remain outside this portfolio's scope.
 
 ### 4. Aggregate and privacy-conscious reporting
 
-The reporting model emphasizes organizational patterns, process gaps, protective behavior, and improvement opportunities. It is not intended to publicly rank employees or present behavioral data as a definitive judgment of a person.
+Reporting emphasizes group patterns, process gaps, protective behavior, and improvement opportunities. Findings explain the expectation, observation, interpretation and limits, and next useful action. Confirmed reporting behavior depends on an approved reporting connection and cannot be inferred from a click alone. Results are not used to rank employees or support employment decisions.
 
 ### 5. Debrief-driven improvement
 
-The end goal is not simply measurement. Findings should lead to clearer procedures, targeted education, safer verification habits, improved reporting readiness, and practical follow-up.
+Findings should lead to clearer procedures, targeted education, safer verification habits, improved reporting readiness, and practical follow-up. A later retest can examine whether the observed patterns changed.
+
+Read the public [pilot process](https://inphishion.com/how-it-works) and [responsible testing commitments](https://inphishion.com/responsible-testing).
 
 ## Design Principles
 
@@ -108,4 +116,6 @@ This portfolio does not publish:
 
 ## Status
 
-**Status: Internal alpha.** The implemented workflows listed above are under active development. Production approval, initial cloud deployment, and controlled validation of the behavioral model remain in progress.
+**Status as of September 8, 2026: Live website and application; controlled pilot preparation.** Current pilots are intended for select organizations, with participation, timing, safeguards, measurement, and pricing agreed before work begins. The behavioral model remains provisional, and broader delivery readiness is still being verified. Public individual enrollment and paid checkout are not open.
+
+[Explore the pilot program](https://inphishion.com/pilot) or [start a pilot conversation](https://inphishion.com/contact).

@@ -7,7 +7,7 @@
 
 I work at the intersection of **psychology, cybersecurity, and practical communication**. My focus is understanding why people make risky decisions under pressure, then designing clearer systems, training, and controls that help them respond more safely.
 
-I am the founder of **InPhishion**, a behavioral-security product in internal alpha, and the creator of **CyberPsych with Connor**, a public education project and searchable case library that translates cyberpsychology and security incidents into practical guidance.
+I am the founder of [**InPhishion**](https://inphishion.com), a behavioral security platform with a live public site and application, now preparing controlled pilots with select organizations. I also created **CyberPsych with Connor**, a public education project and searchable case library that translates cyberpsychology and security incidents into practical guidance.
 
 This public portfolio presents selected outcomes, design thinking, and implementation evidence. Proprietary methods, source code, private data, and sensitive implementation details remain private under the [Public Portfolio Policy](PUBLIC_PORTFOLIO_POLICY.md).
 
@@ -15,7 +15,7 @@ This public portfolio presents selected outcomes, design thinking, and implement
 
 | Project | Status | Public evidence |
 |---|---|---|
-| **InPhishion** | Internal alpha | Implemented public site, onboarding, assessment, review, simulation, reporting, administrative, and authenticated-portal workflows |
+| **InPhishion** | Live site and application; controlled pilot preparation | [Website](https://inphishion.com), [pilot program](https://inphishion.com/pilot), and [product case study](portfolio/inphishion.md) |
 | **CyberPsych with Connor** | Active | Published channel, searchable case library, and structured editorial workflow |
 | **Applied Security & Automation** | Completed professional work | Sanitized case study covering security operations, user support, documentation, and workflow improvement |
 
@@ -23,19 +23,25 @@ This public portfolio presents selected outcomes, design thinking, and implement
 
 ### [InPhishion](portfolio/inphishion.md)
 
-An internal-alpha behavioral security platform focused on social engineering resilience, verification behavior, reporting readiness, and explainable human-risk assessment.
+A behavioral security platform that brings together structured assessments, analyst review, and authorized phishing exercises to explore how people respond to suspicious requests. The focus is on verification, reporting, recovery, and practical improvements to the processes around those decisions.
 
-[![InPhishion public homepage](assets/inphishion-home.png)](portfolio/inphishion.md)
+[Visit InPhishion](https://inphishion.com) · [How it works](https://inphishion.com/how-it-works) · [Pilot program](https://inphishion.com/pilot) · [Request a pilot](https://inphishion.com/contact)
 
-*Public-facing InPhishion homepage. See the case study for implemented scope and a synthetic staging view.*
+[![InPhishion public homepage](assets/inphishion-home.png)](https://inphishion.com)
+
+*Earlier public homepage view. Visit the live site for current wording, or read the case study for product scope and a synthetic staging view.*
 
 **My role:** Founder, product lead, behavioral-security researcher, and workflow designer.
 
 **Publicly shareable work includes:**
-- Implementing the service and product journey across public-site, onboarding, assessment, analyst-review, simulation, reporting, administrative, and authenticated-portal workflows
-- Defining privacy, role-based access, audit logging, human-approval, testing, and secure-deployment requirements
-- Framing results as provisional hypotheses and directional evidence rather than diagnoses or guaranteed predictions
-- Developing non-punitive approaches centered on protective behavior, process clarity, and organizational improvement
+
+- Building and refining the journey from pilot inquiry and organization setup through assessment, analyst review, approved exercises, group reporting, and follow-up
+- Bringing the public website and authenticated application online, with administrative and organization-portal workflows
+- Defining privacy, role-based access, audit logging, exact exercise approval, testing, and secure-deployment requirements
+- Connecting provisional findings to observable behavior, clear limits, and a useful next action
+- Designing a non-punitive approach centered on protective behavior, process clarity, and organizational improvement
+
+**Current stage, September 2026:** Controlled pilot preparation with select organizations. The behavioral model remains provisional; the live site is not a claim of scientific validation or measured customer outcomes. Public individual enrollment and paid checkout are not open.
 
 > The platform, scoring logic, assessment materials, simulation methods, data structures, and source code remain private.
 
@@ -102,6 +108,7 @@ The evidence here is deliberately limited to public-facing work, synthetic stagi
 
 ## Connect
 
+- [InPhishion](https://inphishion.com) · [Pilot inquiries](https://inphishion.com/contact)
 - [LinkedIn](https://www.linkedin.com/in/connor-shaney-9750641b8/)
 - [CyberPsych with Connor](https://www.youtube.com/@cyberpsychwithconnor)
 

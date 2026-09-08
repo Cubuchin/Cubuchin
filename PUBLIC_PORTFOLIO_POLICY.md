@@ -29,7 +29,7 @@ The portfolio does not publish:
 
 ## InPhishion Disclosure Standard
 
-Public descriptions of InPhishion are limited to the venture's problem space, internal-alpha status, implemented high-level workflows, sanitized visuals, design principles, and my role in directing the work.
+Public descriptions of InPhishion are limited to the venture's problem space, verified public availability and pilot stage, implemented high-level workflows, sanitized visuals, design principles, and my role in directing the work. As of September 2026, the public site and authenticated application are live, and controlled organizational pilots are in preparation. Public availability does not establish scientific validation or measured customer outcomes.
 
 They should not be interpreted as claims that:
 
